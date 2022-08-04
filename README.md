@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" height="300" width="1200" src="https://media.istockphoto.com/vectors/programming-coding-programming-banner-vector-id623898896" >
 <h1 align="center">Hi 👋, I'm Kartikey Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
